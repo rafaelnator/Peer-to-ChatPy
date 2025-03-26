@@ -10,7 +10,7 @@
 
 ## Bibliotecas Utilizadas
 
-O Blind Helper utiliza as seguintes bibliotecas:
+O Peer-to-ChatPy utiliza as seguintes bibliotecas:
 
 * `flet`: Usada para poder usar o socket e também para o fron-end.
 
